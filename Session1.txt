@@ -48,38 +48,6 @@ $(document).ready(function(){
 This is Hello World by HTML
 
 <div id="msgid">
-</div>
 
-</body>
-</html>
-
-This is Hello World by HTML
-
-<div id="msgid">
-</div>
-
-</body>
-</html>
-
-This is Hello World by HTML
-
-<div id="msgid">
-</div>
-
-</body>
-</html>
-This is Hello World by HTML
-
-<div id="msgid">
-</div>
-
-
-This is Hello World by HTML
-
-<div id="msgid">
-</div>
-
-</body>
-</html>
 </body>
 </html>
