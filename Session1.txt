@@ -52,3 +52,11 @@ This is Hello World by HTML
 
 </body>
 </html>
+
+This is Hello World by HTML
+
+<div id="msgid">
+</div>
+
+</body>
+</html>
